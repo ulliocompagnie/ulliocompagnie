@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulliocompagnie
 - 👀 I’m interested in PHP, MYSQL and Python
-- 🌱 I’m currently learning Github, PHP 7 and Python
+- 🌱 I’m currently learning Github, PHP 8 and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
